@@ -1,10 +1,11 @@
-Cleaned the Amazon sales dataset 
+1)Cleaned the Amazon sales dataset 
 
-converted price and rating fields into numeric format
+2)Converted price and rating fields into numeric format
 
-split hierarchical categories 
-Created pivot tables to analyze sales and profit margins
+3)Split hierarchical categories 
 
-Visualized category performance using pivot charts and generated business insights. 
+4)Created pivot tables to analyze sales and profit margins
 
-Exported the analysis as a PDF report
+5)Visualized category performance using pivot charts and generated business insights. 
+
+6)Exported the analysis as a PDF report
