@@ -1,1 +1,6 @@
-cleaned the Amazon sales dataset, converted price and rating fields into numeric format, split hierarchical categories, and created pivot tables to analyze sales and profit margins. We visualized category performance using pivot charts and generated business insights. Finally, we exported the analysis as a PDF report, similar to a professional BI dashboard.
+Cleaned the Amazon sales dataset 
+converted price and rating fields into numeric format
+split hierarchical categories 
+Created pivot tables to analyze sales and profit margins
+Visualized category performance using pivot charts and generated business insights. 
+Exported the analysis as a PDF report
