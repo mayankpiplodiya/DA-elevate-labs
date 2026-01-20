@@ -24,3 +24,5 @@ Business Value: Targeted marketing strategies such as discounts, onboarding offe
 By joining products with categories and orders, the project identifies which categories generate the highest and lowest revenue.
 
 Strategic Impact: High-performing categories can receive more investment, while low-performing categories can be re-evaluated for pricing, bundling, or discontinuation.
+
+"The final revenue output shows that sales are highly concentrated among a few top products, while many products contribute minimally, highlighting the need for focused inventory, pricing, and marketing strategies.”
