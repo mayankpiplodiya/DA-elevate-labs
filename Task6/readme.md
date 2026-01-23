@@ -18,4 +18,4 @@ Overall Insights from the Analysis-
 
 9- Correlation visualization helped identify which variables move together, supporting data-driven reasoning for feature selection in predictive modeling.
 
-10- Overall, the visualizations transformed raw data into interpretable insights, enabling better understanding of patterns, trends, and relationships rather than relying solely on numerical tables.
+10- Overall, the visualizations transformed raw data into interpretable insights, enabling better understanding of patterns, trends, and relationships rather than relying solely on numerical tables. 
