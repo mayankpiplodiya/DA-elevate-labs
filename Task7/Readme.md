@@ -15,3 +15,5 @@ Insights from Global Superstore Dashboard:
 7-Interactive filters demonstrate that regional and segment-based performance varies significantly, reinforcing the importance of targeted marketing strategies.
 
 8-The dashboard enables management to quickly identify high-performing areas and underperforming segments, supporting data-driven decision-making.
+
+Tableau Public Link-https://public.tableau.com/views/Book1_17694157202970/GlobalSuperstoreSalesProfitDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
