@@ -1,0 +1,9 @@
+Metric,Value
+Control (psa) Conv Rate,0.01785410644448223
+Test (ad) Conv Rate,0.025546559636683747
+Absolute Lift,0.007692453192201517
+P-value,1.9989623063390075e-13
+95% CI Lower,0.005950932431611005
+95% CI Upper,0.00943397395279203
+Is Significant,True
+Recommendation,The ad campaign significantly increased conversions. Scale the ad campaign.
