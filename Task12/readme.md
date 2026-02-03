@@ -1,3 +1,5 @@
+Insights-
+
 1) Customer churn is higher in the younger age groups compared to older customers, indicating lower loyalty among early-stage users.
 
 2) Customers with month-to-month contracts show significantly higher churn than those with long-term contracts, highlighting the stabilizing effect of contract commitment.
@@ -17,3 +19,5 @@
 9) Cleaning and transforming the data improved visualization accuracy and prevented misleading aggregations.
 
 10) Combining all visuals into a single dashboard provides a holistic view of churn drivers, supporting faster and more informed business decisions
+
+https://public.tableau.com/views/Book3_17701325462920/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
