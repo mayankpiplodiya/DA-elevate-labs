@@ -19,3 +19,6 @@ Insights:
 9- Regional performance analysis reveals clear differences in customer demand and buying behavior across markets.
 
 10- Effective use of filters shows that category and region combinations significantly impact both sales and profit outcomes, supporting data-driven targeting strategies.
+
+
+Notebook: https://public.tableau.com/views/Book4_17703769087000/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
