@@ -1,6 +1,7 @@
 Business Actions per Segment (3 each)
 
-Champions-
+
+a) Champions-
 
 1)Provide exclusive loyalty rewards and VIP offers.
 
@@ -9,7 +10,8 @@ Champions-
 3)Encourage referrals and reviews.
 
 
-Loyal Customers-
+
+b) Loyal Customers-
 
 1)Provide personalized product recommendations.
 
@@ -19,7 +21,8 @@ Loyal Customers-
 
 
 
-Potential Loyalists-
+
+c) Potential Loyalists-
 
 1)Offer limited-time discounts to increase purchase frequency.
 
@@ -29,7 +32,8 @@ Potential Loyalists-
 
 
 
-Needs Attention-
+
+d) Needs Attention-
 
 1)Send reminder emails or re-engagement offers.
 
@@ -39,13 +43,15 @@ Needs Attention-
 
 
 
-At Risk-
+
+e) At Risk-
 
 1)Launch win-back campaigns with strong discounts.
 
 2)Send personalized messages highlighting past purchases.
 
 3)Offer special incentives or free shipping to reactivate.
+
 
 
 
